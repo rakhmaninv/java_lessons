@@ -1,0 +1,4 @@
+Jan 28, 2023 2:01:04 AM homework.hw_2.task_4 main
+INFO: number A: 15.000000; number B: 2.000000; operator *; result 30.000000;
+Jan 28, 2023 2:04:06 AM homework.hw_2.task_4 main
+INFO: number A: 10.000000; number B: 3.000000; operator /; result 3.333333;
