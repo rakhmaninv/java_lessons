@@ -1,4 +1,4 @@
-package homework.hw_2;
+package hw_2;
 
 import java.io.File;
 import java.io.FileReader;
